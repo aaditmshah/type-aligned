@@ -1,6 +1,6 @@
 {
   "name": "type-aligned",
-  "version": "0.0.0-development",
+  "version": "1.0.0",
   "description": "library for abstract data types of type-aligned sequences",
   "keywords": [
     "abstract-data-type",
