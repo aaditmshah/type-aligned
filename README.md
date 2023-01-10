@@ -1,6 +1,6 @@
 # Type Aligned
 
-[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/aaditmshah/type-aligned/Continuous%20Deployment?logo=github)](https://github.com/aaditmshah/type-aligned/actions/workflows/continuous-deployment.yml)
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/aaditmshah/type-aligned/continuous-deployment.yml?branch=main&logo=github)](https://github.com/aaditmshah/type-aligned/actions/workflows/continuous-deployment.yml)
 [![GitHub license](https://img.shields.io/github/license/aaditmshah/type-aligned)](https://github.com/aaditmshah/type-aligned/blob/main/LICENSE)
 [![npm](https://img.shields.io/npm/v/type-aligned?logo=npm)](https://www.npmjs.com/package/type-aligned)
 [![semantic-release: gitmoji](https://img.shields.io/badge/semantic--release-gitmoji-E10079?logo=semantic-release)](https://github.com/semantic-release/semantic-release)
